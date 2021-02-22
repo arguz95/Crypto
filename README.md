@@ -1,2 +1,2 @@
 # Crypto
-Cryptocurrency price prediction with tweets
+Cryptocurrency fluctuation prediction with tweets and news.
